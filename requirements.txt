@@ -1,0 +1,12 @@
+"""
+Contains a list of modules that the project needs to run 
+(dependencies). For example, it could be a simple text file like this:
+
+With this file, you can install these modules with a single command like 
+`pip install -r requirements.txt`.
+
+"""
+
+Flask
+Flask-Cors
+Flask-Limiter
